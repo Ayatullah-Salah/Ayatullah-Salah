@@ -22,11 +22,10 @@
   <img src="https://skillicons.dev/icons?i=swift,git,github,firebase,postman,xcode" />
 </p>
 
-- Swift  
-- UIKit / SwiftUI  
-- MVVM Architecture  
-- Coordinator Pattern  
-- REST APIs  
+- Swift / Objective-C 
+- UIKit / SwiftUI
+- Clean Architecture 
+- MVVM / MVP / VIPER  
 - Firebase  
 - Git & :contentReference[oaicite:0]{index=0}  
 
@@ -43,22 +42,23 @@
 ## 📫 Contact Me
 
 - 📧 Email: ayatullahsalah6@gmail.com  
-- 💼 LinkedIn:https://www.linkedin.com/in/ayatullah-salah/   
-  
+- 💼 LinkedIn:  https://www.linkedin.com/in/ayatullah-salah/ 
+- 🧑‍💻 GitHub: https://github.com/Ayatullah-Salah  
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy building iOS apps that feel smooth, fast, and simple 💙
+I enjoy building iOS apps that feel smooth, fast, and simple 💙  
 
 ---
 
 ### 🚀 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ayatullah-Salah&theme=dark)
 
 ---
 
 ### 😄 Joke of the Day
 <img src="https://readme-jokes.vercel.app/api" />
+
